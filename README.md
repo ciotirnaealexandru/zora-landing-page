@@ -1,3 +1,3 @@
 # odin-landing-page
 
-This is the first landing page I builtfollowing the Odin Project.
+This is the first landing page I built following the Odin Project.
