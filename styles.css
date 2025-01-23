@@ -112,14 +112,14 @@ body, html {
 }
 
 .quote-container {
-    background-color: #E5E7EB;
+    background-color: #1F2937;
     padding-top:80px;
     padding-bottom:60px;
 }
 .quote {
     text-align:center;
     font-size: 26px;
-    color: #1f2937b3;
+    color: #E5E7EB;
     font-style: italic;
     font-weight: 100;
     margin-left: 80px;
@@ -131,8 +131,9 @@ body, html {
     margin-right: 160px;
     margin-top: 20px;
     text-align: right;
-    font-weight: bold;
     font-size: 20px;
+    color: #E5E7EB;
+    font-style: italic;
 }
 
 .cats-container{
@@ -186,14 +187,14 @@ body, html {
 }
 
 .signup-title {
-    color:#E5E7EB;
+    color:#F9FAF8;
     font-weight: bolder;
     margin-bottom: 8px;
     font-size: 20px;
 }
 
 .signup-information {
-    color:#E5E7EB;
+    color:#F9FAF8;
     font-size:15px;
     font-weight: light;
     margin-right: 30px;
@@ -202,12 +203,12 @@ body, html {
 
 .signup-button {
     background: none;
-    border-color:#E5E7EB;
+    border-color:#F9FAF8;
     border-style: solid;
     height: 30px;
     width: 90px;
     border-radius: 5px;
-    color:#E5E7EB;
+    color:#F9FAF8;
     font-weight: bold;
     font-size: 15px;
     flex-shrink: 0;
